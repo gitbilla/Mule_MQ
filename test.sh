@@ -1,2 +1,2 @@
-#!/bin/bash
-uptime
+#!/usr/bin/bash
+echo "Server up from `uptime`"
